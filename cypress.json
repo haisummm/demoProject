@@ -1,0 +1,8 @@
+{
+    "defaultCommandTimeout": 40000,
+    "baseUrl": "http://automationpractice.com/",
+    "apiUrl": "http://automationpractice.com",
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "requestTimeout": 40000
+  }
